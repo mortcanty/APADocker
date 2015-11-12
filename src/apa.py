@@ -339,7 +339,7 @@ def main():
     run(W,b,c,infile,graph)
     
 if __name__ == '__main__':
-#   main()
-    simulate()
+    main()
+#    simulate()
     
     
